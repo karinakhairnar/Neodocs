@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+}
+#main{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+#student{
+    display: flex;
+    margin: auto;
+}
